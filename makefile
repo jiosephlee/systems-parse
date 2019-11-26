@@ -15,6 +15,4 @@ run:
 
 clean:
 	rm *.o
-	rm *.exe.stackdump
-	rm *.exe
 	rm a.out
